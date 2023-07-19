@@ -1,4 +1,4 @@
-use music
+use music;
 
 songs = [
   {
@@ -66,8 +66,8 @@ songs = [
     "artist_name": "Taylor Swift",
     "album_name": "Red"
   }
-]
-db.music.songs.insertMany(songs)
+];
+db.songs.insertMany(songs);
 
 artists = [
   {
@@ -120,9 +120,9 @@ artists = [
     "date_of_birth": new Date("1989-12-13"),
     "genre": ["Pop", "Country", "Rock"]
   }
-]
+];
 
-db.music.artists.insertMany(artists)
+db.artists.insertMany(artists);
 
 populars = [
   {
@@ -175,5 +175,7 @@ populars = [
     "times_played": 5000,
     "period_time": 5000 * 3 * 60
   }
-]
-db.music.populars.insertMany(populars)
+];
+db.populars.insertMany(populars);
+
+// db.dropDatabase()
