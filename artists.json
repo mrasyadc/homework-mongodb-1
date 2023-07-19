@@ -1,0 +1,52 @@
+[
+  {
+    "artist_name": "IU",
+    "date_of_birth": new Date("1993-05-16"),
+    "genre": ["K-pop", "Ballad"]
+  },
+  {
+    "artist_name": "SUGA",
+    "date_of_birth": new Date("1993-03-09"),
+    "genre": ["Hip Hop", "Rap"]
+  },
+  {
+    "artist_name": "NewJeans",
+    "date_of_birth": new Date("2004-05-07"),
+    "genre": ["K-pop"]
+  },
+  {
+    "artist_name": "IVE",
+    "date_of_birth": new Date("2002-09-24"),
+    "genre": ["K-pop"]
+  },
+  {
+    "artist_name": "Sheila On 7",
+    "date_of_birth": new Date("1980-04-30"),
+    "genre": ["Rock", "Alternative Rock", "Power Pop", "Pop Rock", "Pop Punk"]
+  },
+  {
+    "artist_name": "The Goo Goo Dolls",
+    "date_of_birth": new Date("1965-12-05"),
+    "genre": ["Alternative Rock", "Pop Rock", "Post-Grunge", "Punk Rock"]
+  },
+  {
+    "artist_name": "Coldplay",
+    "date_of_birth": new Date("1977-03-02"),
+    "genre": ["Alternative Rock", "Pop Rock", "Post-Britpop", "Pop"]
+  },
+  {
+    "artist_name": "BIGBANG",
+    "date_of_birth": new Date("1988-08-18"),
+    "genre": ["K-pop", "J-pop", "Hip Hop", "Rock", "Dance", "Electonic", "R&B"]
+  },
+  {
+    "artist_name": "Joji",
+    "date_of_birth": new Date("1992-09-18"),
+    "genre": ["R&B", "Soul"]
+  },
+  {
+    "artist_name": "Taylor Swift",
+    "date_of_birth": new Date("1989-12-13"),
+    "genre": ["Pop", "Country", "Rock"]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "song_title": "eight(Prod.&Feat. SUGA of BTS)",
+    "times_played": 10000,
+    "period_time": 10000 * 3 * 60
+  },
+  {
+    "song_title": "OMG",
+    "times_played": 9500,
+    "period_time": 9500 * 3 * 60
+  },
+  {
+    "song_title": "Ditto",
+    "times_played": 9000,
+    "period_time": 9000 * 3 * 60
+  },
+  {
+    "song_title": "I AM",
+    "times_played": 8500,
+    "period_time": 8500 * 3 * 60
+  },
+  {
+    "song_title": "Kitsch",
+    "times_played": 8000,
+    "period_time": 8000 * 3 * 60
+  },
+  {
+    "song_title": "Dan...",
+    "times_played": 7500,
+    "period_time": 7500 * 3 * 60
+  },
+  {
+    "song_title": "Seberapa Pantas",
+    "times_played": 7000,
+    "period_time": 7000 * 3 * 60
+  },
+  {
+    "song_title": "Yang Terlewatkan",
+    "times_played": 6500,
+    "period_time": 6500 * 3 * 60
+  },
+  {
+    "song_title": "Iris",
+    "times_played": 6000,
+    "period_time": 6000 * 3 * 60
+  },
+  {
+    "song_title": "Yellow",
+    "times_played": 5000,
+    "period_time": 5000 * 3 * 60
+  }
+]
